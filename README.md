@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Aneeb 👋
+# Hi, I'm Muhammad Aneeb 
 
 ### Full-Stack & DevOps Engineer
 
