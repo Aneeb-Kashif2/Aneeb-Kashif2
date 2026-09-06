@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Muhammad Aneeb 👋
 
-<!--
-**Aneeb-Kashif2/Aneeb-Kashif2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack & DevOps Engineer
 
-Here are some ideas to get you started:
+I build scalable web applications and deploy them using
+modern cloud and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Build
+
+- Full-stack SaaS applications
+- AI-powered web applications
+- REST APIs & backend systems
+- Cloud infrastructure
+- Dockerized applications
+- CI/CD pipelines
+- Production deployments
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+Next.js • React • TypeScript • Tailwind CSS
+
+### Backend
+Node.js • Express • Fastify • REST APIs
+
+### Database
+PostgreSQL • MongoDB
+
+### DevOps & Cloud
+Docker • Linux • AWS • Nginx • GitHub Actions
+CI/CD • Cloudflare
+
+### AI
+OpenAI APIs • AI Agents • RAG
+
+---
+
+## ⭐ Featured Projects
+
+### Secure Cloud
+Self-hosted cloud storage platform with secure
+file management and cloud infrastructure.
+
+### GrocerAI
+AI-powered e-commerce platform with Stripe integration.
+
+### DevOps Infrastructure
+Docker, Nginx, CI/CD, AWS and monitoring infrastructure.
+
+---
+
+## 📊 GitHub Stats
+
+[stats]
+
+---
+
+## 📫 Connect With Me
+
+Portfolio: ...
+LinkedIn: ...
