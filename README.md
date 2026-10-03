@@ -61,5 +61,5 @@ Docker, Nginx, CI/CD, AWS and monitoring infrastructure.
 
 ## 📫 Connect With Me
 
-Portfolio: ...
-LinkedIn: ...
+Portfolio: https://aneeb.netlify.app/
+LinkedIn: https://www.linkedin.com/in/aneeb-kashif/
